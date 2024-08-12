@@ -42,4 +42,9 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="15%" hight="15%" src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg"></code>
 </p>
 
+
+&nbsp;![](https://komarev.com/ghpvc/?username=surajit-zs&color=brightgreen)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surajit-zs&show_icons=true&locale=en" alt="surajit-zs" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajit-zs&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+
 ---
