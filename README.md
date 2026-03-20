@@ -13,9 +13,9 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **About Me:**
 
-- I’m currently working on __[ZopSmart](https://zopsmart.com)__.
-- I’m currently working as a __Golang Backend Developer__.
-- Years of experience __2.8__ .
+- I’m currently working on __[Calix](https://calix.com)__.
+- I’m currently working as a __Senior Software Engineer__.
+- Years of experience __4__ .
 - How to reach me: __surajit.spore@gmail.com__
 
 ---
@@ -31,6 +31,7 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   </br>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
@@ -38,6 +39,8 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg"></code>
   </br>
+
+  
 
   <code><img width="15%" hight="15%" src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg"></code>
 </p>
